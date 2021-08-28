@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sueyanglove
+- 👀 I’m interested in Java, Python, data analytis
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on Python/data visualization project 
+- 📫 reach me @sueyanglove@gmail.com 
